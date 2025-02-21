@@ -1,0 +1,40 @@
+
+>[! Tip] GoalI want a list of the best medium-length hikes within two hours of San
+Francisco.
+Each hike should provide a cool and unique adventure, and be lesser
+known.
+
+>[! Abstract] Return Format
+>For each hike, return the name of the hike as I'd find it on AllTrails,
+then provide the starting address of the hike, the ending address of
+the hike, distance, drive time, hike duration, and what makes it a cool
+and unique adventure.
+Return the top 3.
+
+>[!warning] Warning
+>Be careful to make sure that the name of trail is correct, that it
+actually exists, and that the time is correct.
+
+>[!TLDR] Context Dump
+>For context: my girlfriend and i hike a ton! we've done pretty much
+all of the local SF hikes, whether that's presidio or golden gate park.
+we definitely want to get out of town -- we did mount tam pretty
+recently, the whole thing from the beginning of the stairs to stinson -- it was really long and we are definitely in the mood for something
+different this weekend! ocean views would still be nice. we love
+delicious food. one thing i loved about the mt tam hike is that it ends
+with a celebration (Arriving in town to breakfast!) The old missile
+silos and stuff near Discovery point is cool but I've just done that
+hike probably 20x at this point. We won't be seeing eachother for a
+few weeks (she has to stay in LA for work) so the uniqueness here really counts.
+
+
+Here are the four essential pillars:  
+1. Set a clear goal – First of all, know what you expect from the answer. The more specific the request, the better the result.  
+  
+2. Determine the format of the answer – Need a list? A summary? A table? Reporting this to the AI prevents disorganized responses and saves time.  
+  
+3. Establish rules and restrictions – What should AI avoid? Is there anything that can't be mentioned? These limits act as drivers to keep the response in line with your need.  
+  
+4. Provide context – The more relevant information you offer, the more personalized and useful the response will be. Contextualizing AI is like giving someone detailed instructions before starting a task.  
+  
+The key to smarter interactions with AI lies in the way we structure our questions. Try this approach and see the difference! 💡  
